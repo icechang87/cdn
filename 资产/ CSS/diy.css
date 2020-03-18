@@ -344,7 +344,6 @@ transform:rotateZ(360deg);
    font-size:21px;
     font-weight:bold;
     color: #ff6600;
-    background-color: #FCEBC2;
     border-bottom: 1px solid;
     padding: 5px 15px;
     border-left: 5px solid;
@@ -355,7 +354,7 @@ transform:rotateZ(360deg);
     font-size:17px;
     font-weight:bold;
     color: #ff6600;
-    background-color: #FCEBC2;
+
     border-bottom: 1px solid;
     padding: 5px 15px;
     border-left: 5px solid;
